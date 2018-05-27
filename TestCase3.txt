@@ -1,0 +1,17 @@
+2014 Employee Slater  Georgia  12000 0
+2015 Salesman Joni  Sexton  12000 150000
+2014 Executive  Yates  Holcomb  25000 55
+2015 Employee Rosario  Lakeisha  4055 0
+2014 Employee Sparks  Stout  12500 0
+2015 Executive  Collins  Morgan  4050 45
+2015 Employee Stephenson  Greer  12150  0
+2014 Employee Campbell  Priscilla  9720  0
+2015 Salesman Short  Neal  12100  50000
+2015 Employee Harrell  Eric  42100  0
+2014 Salesman Hattie  Brock  12800  120000
+2015 Employee Atkinson  Ashley  1800  0
+2014 Employee Hutchinson  Taylor  11800  0
+2015 Employee Barton  Lydia  22090  0
+2014 Salesman Boyer  Marissa  13000  100000
+2014 Employee Huber Chandler 2300 0
+2015 Executive  Pennington Ann 5590 59
